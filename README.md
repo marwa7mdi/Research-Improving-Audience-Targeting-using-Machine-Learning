@@ -16,6 +16,4 @@ This research introduces a multitask learning model enhanced with an attention m
 - **Sequential Behavior Modeling**: Utilizes 1D-CNN to capture temporal dependencies in user actions.
 - **Performance Improvement**: Demonstrated enhanced click-through and conversion rate prediction over state-of-the-art methods :contentReference[oaicite:3]{index=3}.
 
----
 
-## 📂 Repository Structure
